@@ -1,15 +1,10 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_EC_Cop_ECMWF.png)
 
-# C3S Seasonal Forecasts Training notebooks
-
-**PLEASE NOTE THAT THIS A DEVELOPMENT INSTANCE, THESE NOTE BOOKS ARE OFFICIALLY PUBLISHED ELSEWHERE**
-
-This Jupyter book is a sub-module of the core C3S training material, it is published here for reviewing the
-content prior to publication.
+# C3S seasonal forecasts training notebooks
 
 Seasonal forecasts provide valuable insights into expected climate conditions over longer time horizons, typically spanning several weeks to months. This tutorial series explores the interpretation and utilization of seasonal forecast data for various applications, including agriculture, water resource management, and disaster preparedness.
 
-## Seasonal Forecast Anomalies
+## Seasonal forecast anomalies
 
 This notebook provides a practical introduction to calculating seasonal forecast anomalies with data from the Copernicus Climate Change Service (C3S). C3S seasonal forecast products are based on data from several state-of-the-art seasonal prediction systems. In this tutorial we shall focus on the [ECMWF SEAS5 model](https://confluence.ecmwf.int/display/CKB/Description+of+SEAS5+C3S+contribution), which is one of the forecasting systems available through C3S.
 
@@ -17,7 +12,7 @@ The tutorial will demonstrate how to access real-time forecast data of total pre
 
 ![logo](./img/.png)
 
-## Seasonal Forecast Verification
+## Seasonal forecast verification
 
 This notebook provides a practical introduction on how to produce some verification metrics and scores for seasonal forecasts with data from the Copernicus Climate Change Service (C3S). C3S seasonal forecast products are based on data from several state-of-the-art seasonal prediction systems. In this notebook, as an example, we will focus on data produced by [CMCC SPSv3.5 system](https://confluence.ecmwf.int/display/CKB/Description+of+CMCC-CM2-v20191201+C3S+contribution), which is one of the forecasting systems available through C3S.
 

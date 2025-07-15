@@ -1,6 +1,6 @@
 ![logo](https://climate.copernicus.eu/sites/default/files/custom-uploads/branding/LogoLine_horizon_C3S.png)
 
-# C3S seasonal forecasts training notebooks
+# Tutorials on C3S seasonal forecasts datasets
 
 Seasonal forecasts sit between weather and climate predictions, providing short-term climate outlooks focused on average conditions and variability. They help us to forecast what kind of season to expect, but not what will happen on a given day, providing forecasts over longer time horizons typically spanning several weeks to months. In this way, they help people and sectors prepare for climate-related risks and opportunities months in advance, helping society make smarter, climate-informed decisions. Seasonal forecasts are probabilistic predictions, not certainties. As such, it is important to interpret them as guidance, not guarantees, and use them alongside other sources of information for planning and decision-making.
 

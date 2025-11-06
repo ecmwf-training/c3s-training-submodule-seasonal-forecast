@@ -168,3 +168,4 @@ cython_debug/
 
 _build/
 
+data_dir/
